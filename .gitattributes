@@ -1,7 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 #include<iostream>
-#include<conio.h>
 using namespace std;
 int main(){
     int i,a[5],g;
